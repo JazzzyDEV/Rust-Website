@@ -1,3 +1,8 @@
+<p align="center">
+  <a target="_blank" rel="noreferrer"><img src="https://discord.c99.nl/widget/theme-2/675045882852278281.png" alt="my banner"></a>
+</p>
+
+
 # Rust-Website
 Rust Website. 
 Created By Jazzzy :)
